@@ -7,5 +7,8 @@ Cell的艺术
 
 ## Author
 
+Weibo: [@确实草蛋][1]
+http://weibo.com/caoeggs/home
+
 Github: [houyukun]
-[2]: https://github.com/houyukun/
+https://github.com/houyukun/
